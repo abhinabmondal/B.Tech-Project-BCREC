@@ -30,6 +30,18 @@ This project implements a custom Web Application Firewall to provide an addition
 
 👥 Team Size: 3 Members
 
+ Lead:
+<p>
+  <kbd>Abhinab Mondal</kbd>
+</p>
+
+Team:
+<p>
+  <kbd>Rahul Ghosh</kbd>
+  <kbd>Avnish Kumar Thakur</kbd>
+</p>
+
+
 ✅ Designed system architecture for request filtering and security modules
 
 ✅ Implemented core security rules and attack detection mechanisms
